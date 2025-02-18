@@ -81,7 +81,7 @@ New macro of X command(s)
 ## Запуск программы
 Для компиляции и запуска программы используйте:
 ```sh
- g++ -o executor executor.cpp
+ g++ -std=c++17 -o executor executor.cpp
  ./executor
 ```
 
