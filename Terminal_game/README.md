@@ -81,7 +81,7 @@ New macro of X command(s)
 ## Запуск программы
 Для компиляции и запуска программы используйте:
 ```sh
- g++ -o brodilka brodilka.cpp
- ./brodilka
+ g++ -o executor executor.cpp
+ ./executor
 ```
 
